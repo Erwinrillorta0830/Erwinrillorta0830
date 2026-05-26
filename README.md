@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm an ERP Web Developer
-
+I am an ERP Web Developer specializing in developing, customizing, and maintaining enterprise web-based systems that streamline business operations and improve workflow efficiency. My experience includes system development, database management, automation, technical support, and integrating business processes into scalable digital solutions. I have a background in IT and experience working with administrative systems, IoT platforms, dashboards, and business management tools.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Erwin Rillorta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Erwin Rillorta) 
